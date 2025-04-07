@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently training at fullsession
+Hi there! I'm Muhammad Qzih, a passionate software engineering student at An-Najah National University, graduating in March 2025. I'm currently honing my skills through hands-on internships at FullSession and ASAL Technologies, where I’ve built responsive web applications using Angular, React, and Bootstrap, and explored UI libraries like Ng-Zorro and Angular Material. I’ve also contributed to impactful projects like N3imn, a Flutter-based mobile app transforming barber-customer interactions, and a Movies App using React-Redux. I'm driven by clean code, efficient architecture, and a love for problem-solving. Let's build something awesome together!
+
+
 
 
 ## 🌐 Socials:
