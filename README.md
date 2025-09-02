@@ -1,5 +1,29 @@
-# 💫 About Me:
-Hi there! I'm Muhammad Qzih, a passionate software engineering student at An-Najah National University, graduating in March 2025. I'm currently honing my skills through hands-on internships at FullSession and ASAL Technologies, where I’ve built responsive web applications using Angular, React, and Bootstrap, and explored UI libraries like Ng-Zorro and Angular Material. I’ve also contributed to impactful projects like N3imn, a Flutter-based mobile app transforming barber-customer interactions, and a Movies App using React-Redux. I'm driven by clean code, efficient architecture, and a love for problem-solving. Let's build something awesome together!
+# Muhammad Qzih – Software Engineer
+
+Hi, I’m Muhammad Qzih, a recent Software Engineering graduate from **An-Najah National University** (March 2025). I have a strong interest in backend development and building scalable, maintainable web applications.
+
+---
+
+## 🔹 Recent Focus
+Over the last few months, I’ve been focusing heavily on backend technologies, particularly **ASP.NET Core**, designing and implementing **RESTful APIs**, and applying best practices such as **clean architecture**, **dependency injection**, and **layered design**.  
+
+I have experience with:  
+- **Entity Framework Core**  
+- **JWT authentication** and role-based authorization  
+- **Exception handling**, logging, and middleware implementation  
+
+---
+
+## 🔹 Experience
+During my internships, I gained hands-on experience building backend systems and integrating them with frontend frameworks like **Angular** and **React**.  
+
+I also worked with tools and patterns such as:  
+- **CQRS**  
+- **MediatR**  
+- **AutoMapper**  
+- **Repository** and **Unit of Work** patterns  
+
+This helped me ensure **maintainable, testable, and well-structured applications**.
 
 
 
